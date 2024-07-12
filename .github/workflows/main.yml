@@ -1,5 +1,5 @@
 on: [push]
-name: dvga build and ship
+name: Build and Ship
 
 jobs:
     build-and-deploy:
