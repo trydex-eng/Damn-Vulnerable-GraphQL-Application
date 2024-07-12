@@ -1,5 +1,5 @@
 on: [push]
-name: damn-vulnerable-graphql-app-docker-build
+name: dvga build and ship
 
 jobs:
     build-and-deploy:
